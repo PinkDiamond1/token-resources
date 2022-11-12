@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>khala</title>
-    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="khala" fill-rule="nonzero">
-            <rect id="矩形" fill="#000000" x="0" y="0" width="512" height="512"></rect>
-            <g id="svg_6" transform="translate(131.393582, 127.017429)" fill="#03FFFF">
-                <rect id="svg_1" x="0" y="0" width="67.3523042" height="257.965839"></rect>
-                <rect id="svg_2" x="66.8416253" y="70.854103" width="67.4252584" height="67.8681942"></rect>
-                <rect id="svg_3" x="133.37059" y="138.873416" width="67.4252584" height="67.8681942"></rect>
-                <rect id="svg_4" x="181.786084" y="188.951223" width="67.4252584" height="67.8681942"></rect>
-                <rect id="svg_5" x="132.609782" y="2.78267934" width="113.928312" height="67.8681942"></rect>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" version="1.1" viewBox="0 0 512 512"><title>khala</title><g id="页面-1" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="khala" fill-rule="nonzero"><rect id="矩形" width="512" height="512" x="0" y="0" fill="#000"/><g id="svg_6" fill="#03FFFF" transform="translate(131.393582, 127.017429)"><rect id="svg_1" width="67.352" height="257.966" x="0" y="0"/><rect id="svg_2" width="67.425" height="67.868" x="66.842" y="70.854"/><rect id="svg_3" width="67.425" height="67.868" x="133.371" y="138.873"/><rect id="svg_4" width="67.425" height="67.868" x="181.786" y="188.951"/><rect id="svg_5" width="113.928" height="67.868" x="132.61" y="2.783"/></g></g></g></svg>
